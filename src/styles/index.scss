@@ -1,0 +1,4 @@
+// 引入element-plus样式
+@import 'element-plus/dist/index.css';
+// 自定义放在下面，不然会被element-plus样式覆盖
+@import './app.scss';

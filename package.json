@@ -14,13 +14,13 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
     "element-plus": "^2.9.7",
     "pinia": "^3.0.2",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "mockjs": "^1.1.0",
     "@tsconfig/node22": "^22.0.1",
     "@types/node": "^22.14.1",
     "@vitejs/plugin-vue": "^5.2.3",
@@ -31,8 +31,10 @@
     "eslint": "^9.24.0",
     "eslint-plugin-vue": "~10.0.0",
     "jiti": "^2.4.2",
+    "mockjs": "^1.1.0",
     "npm-run-all2": "^7.0.2",
     "prettier": "3.5.3",
+    "sass": "^1.86.3",
     "typescript": "~5.8.3",
     "vite": "^6.2.6",
     "vite-plugin-vue-devtools": "^7.7.2",
